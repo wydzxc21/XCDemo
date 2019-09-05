@@ -1,0 +1,196 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gradle/
+* .gradle/4.10.1/
+* .gradle/4.10.1/fileChanges/
+* .gradle/4.10.1/fileChanges/last-build.bin
+* .gradle/4.10.1/fileHashes/
+* .gradle/4.10.1/fileHashes/fileHashes.bin
+* .gradle/4.10.1/fileHashes/fileHashes.lock
+* .gradle/4.10.1/gc.properties
+* .idea/
+* .idea/codeStyles/
+* .idea/codeStyles/Project.xml
+* .idea/libraries/
+* .idea/libraries/xcframework.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* README.md
+* XCFramework.iml
+* out/
+* out/production/
+* out/production/XCFramework/
+* out/production/XCFramework/com/
+* out/production/XCFramework/com/xc/
+* out/production/XCFramework/com/xc/framework/
+* out/production/XCFramework/com/xc/framework/BuildConfig.class
+* out/production/XCFramework/com/xc/framework/R$attr.class
+* out/production/XCFramework/com/xc/framework/R$drawable.class
+* out/production/XCFramework/com/xc/framework/R$string.class
+* out/production/XCFramework/com/xc/framework/R$style.class
+* out/production/XCFramework/com/xc/framework/R.class
+* out/production/XCFramework/com/xc/framework/bitmap/
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapCacheListener.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapDisplayConfig.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapGlobalConfig$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapGlobalConfig$BitmapCacheManagementTask.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapGlobalConfig.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapLoader$BitmapLoadTask.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapLoader.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapOtherUtil$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/BitmapOtherUtil.class
+* out/production/XCFramework/com/xc/framework/bitmap/PauseOnScrollListener.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/
+* out/production/XCFramework/com/xc/framework/bitmap/cache/FileNameGenerator.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/KeyExpiryMap.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$2.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$Editor$FaultHidingOutputStream.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$Editor.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$Entry.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$Snapshot.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$StrictLineReader$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache$StrictLineReader.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruDiskCache.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/LruMemoryCache.class
+* out/production/XCFramework/com/xc/framework/bitmap/cache/MD5FileNameGenerator.class
+* out/production/XCFramework/com/xc/framework/bitmap/callback/
+* out/production/XCFramework/com/xc/framework/bitmap/callback/BitmapLoadCallBack.class
+* out/production/XCFramework/com/xc/framework/bitmap/callback/BitmapLoadFrom.class
+* out/production/XCFramework/com/xc/framework/bitmap/callback/BitmapSetter.class
+* out/production/XCFramework/com/xc/framework/bitmap/callback/DefaultBitmapLoadCallBack.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/
+* out/production/XCFramework/com/xc/framework/bitmap/core/AsyncDrawable.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/BitmapCache$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/BitmapCache$BitmapMeta.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/BitmapCache$MemoryCacheKey.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/BitmapCache.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/BitmapDecoder.class
+* out/production/XCFramework/com/xc/framework/bitmap/core/BitmapSize.class
+* out/production/XCFramework/com/xc/framework/bitmap/download/
+* out/production/XCFramework/com/xc/framework/bitmap/download/DefaultDownloader.class
+* out/production/XCFramework/com/xc/framework/bitmap/download/Downloader.class
+* out/production/XCFramework/com/xc/framework/bitmap/factory/
+* out/production/XCFramework/com/xc/framework/bitmap/factory/BitmapFactory.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/
+* out/production/XCFramework/com/xc/framework/bitmap/task/Node.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/Priority.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityAsyncTask$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityAsyncTask$2.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityAsyncTask$AsyncTaskResult.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityAsyncTask$InternalHandler.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityAsyncTask$WorkerRunnable.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityAsyncTask.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityExecutor$1.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityExecutor.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityObject.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityObjectBlockingQueue$Itr.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityObjectBlockingQueue.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/PriorityRunnable.class
+* out/production/XCFramework/com/xc/framework/bitmap/task/TaskHandler.class
+* out/production/XCFramework/com/xc/framework/db/
+* out/production/XCFramework/com/xc/framework/db/DBHelper.class
+* out/production/XCFramework/com/xc/framework/db/DBManager.class
+* out/production/XCFramework/com/xc/framework/https/
+* out/production/XCFramework/com/xc/framework/https/HttpConnection$1.class
+* out/production/XCFramework/com/xc/framework/https/HttpConnection$2.class
+* out/production/XCFramework/com/xc/framework/https/HttpConnection.class
+* out/production/XCFramework/com/xc/framework/https/HttpParam.class
+* out/production/XCFramework/com/xc/framework/https/client/
+* out/production/XCFramework/com/xc/framework/https/client/BaseThread.class
+* out/production/XCFramework/com/xc/framework/https/client/ConnectionConfig.class
+* out/production/XCFramework/com/xc/framework/https/client/DecompressingEntity.class
+* out/production/XCFramework/com/xc/framework/https/client/DefaultSSLSocketFactory$1.class
+* out/production/XCFramework/com/xc/framework/https/client/DefaultSSLSocketFactory.class
+* out/production/XCFramework/com/xc/framework/https/client/GZipDecompressingEntity.class
+* out/production/XCFramework/com/xc/framework/https/client/HttpHandler.class
+* out/production/XCFramework/com/xc/framework/https/client/HttpThread.class
+* out/production/XCFramework/com/xc/framework/https/client/RetryHandler.class
+* out/production/XCFramework/com/xc/framework/https/client/UploadEntity.class
+* out/production/XCFramework/com/xc/framework/https/interfaces/
+* out/production/XCFramework/com/xc/framework/https/interfaces/DownloadCallBack.class
+* out/production/XCFramework/com/xc/framework/https/interfaces/ParamInterface.class
+* out/production/XCFramework/com/xc/framework/https/interfaces/RequestCallback.class
+* out/production/XCFramework/com/xc/framework/https/interfaces/ThreadInterface.class
+* out/production/XCFramework/com/xc/framework/https/interfaces/UploadCallBack.class
+* out/production/XCFramework/com/xc/framework/https/multipart/
+* out/production/XCFramework/com/xc/framework/https/multipart/FormBodyPart.class
+* out/production/XCFramework/com/xc/framework/https/multipart/HttpMultipart$1.class
+* out/production/XCFramework/com/xc/framework/https/multipart/HttpMultipart.class
+* out/production/XCFramework/com/xc/framework/https/multipart/HttpMultipartMode.class
+* out/production/XCFramework/com/xc/framework/https/multipart/MIME.class
+* out/production/XCFramework/com/xc/framework/https/multipart/MinimalField.class
+* out/production/XCFramework/com/xc/framework/https/multipart/MinimalFieldHeader.class
+* out/production/XCFramework/com/xc/framework/https/multipart/MultipartEntity$CallBackInfo.class
+* out/production/XCFramework/com/xc/framework/https/multipart/MultipartEntity.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/
+* out/production/XCFramework/com/xc/framework/https/multipart/content/AbstractContentBody.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/ByteArrayBody.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/ContentBody.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/ContentDescriptor.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/FileBody.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/InputStreamBody.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/RequestCallBackHandler.class
+* out/production/XCFramework/com/xc/framework/https/multipart/content/StringBody.class
+* out/production/XCFramework/com/xc/framework/utils/
+* out/production/XCFramework/com/xc/framework/utils/XCActivityUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCAppUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCBeanUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCBitmapUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCColorUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCDBUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCDownloadUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCFileUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCGlobalExceptionUtil$OnGlobalExceptionListener.class
+* out/production/XCFramework/com/xc/framework/utils/XCGlobalExceptionUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCHttpUtil$1.class
+* out/production/XCFramework/com/xc/framework/utils/XCHttpUtil$2.class
+* out/production/XCFramework/com/xc/framework/utils/XCHttpUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCIOUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCJsonUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCLocationUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCLogUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCMD5Util.class
+* out/production/XCFramework/com/xc/framework/utils/XCNetUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCPhoneUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCScreenUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCStringUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCThreadUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCTimeUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCToastUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCUnitUtil.class
+* out/production/XCFramework/com/xc/framework/utils/XCViewUtil.class
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => xcFramework/src/main/AndroidManifest.xml
+* res/ => xcFramework/src/main/res/
+* src/ => xcFramework/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

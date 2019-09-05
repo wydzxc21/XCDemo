@@ -1,0 +1,2 @@
+include ':app', 'xcFramework', ':XCFramework'
+include ':xcFramework'

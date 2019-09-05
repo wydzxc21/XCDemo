@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:2:11-37
+		INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml
+		INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:4:11-36
+		INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml
+		INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml:3:11-34
+		INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml
+		INJECTED from /Users/c/Desktop/androidSpace/XCDemo/xcFramework/src/main/AndroidManifest.xml
